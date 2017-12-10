@@ -1,5 +1,5 @@
 
-[h1] Model Hamiltonian
+[h1 1312] Model Hamiltonian
 
 Transfer matrix method:
 For a semi-infinite slab,
