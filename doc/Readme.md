@@ -1,5 +1,5 @@
-# h1 Model Hamiltonian
-
+# Model Hamiltonian
+$H(\vec{k})$
 Transfer matrix method:
 For a semi-infinite slab,
 
