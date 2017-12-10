@@ -1,4 +1,5 @@
-Edge states calculation
+
+[h1] Model Hamiltonian
 
 Transfer matrix method:
 For a semi-infinite slab,
