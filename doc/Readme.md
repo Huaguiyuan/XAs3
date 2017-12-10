@@ -1,6 +1,7 @@
 Edge states calculation
 
-Transfer matrix method
+Transfer matrix method:
+For a semi-infinite slab,
 
 
 
